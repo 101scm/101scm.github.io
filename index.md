@@ -11,7 +11,7 @@ keywords: operations management, supply chain management, logistics
 
 <h4>New Updates</h4>
 <p>There are no new updates.</p>
-
+<!--
 <br/>
 
 ---
@@ -42,3 +42,4 @@ keywords: operations management, supply chain management, logistics
 <li>Important Information 2</li>
 <li>Important Information 3</li>
 </ul>
+-->
