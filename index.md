@@ -16,7 +16,7 @@ padding:10px;
 
 <div class="ex">
 
-<div style="text-align: left;font-size: 14px;">
+<div style="text-align: center;font-size: 14px;">
 
 This website is for those who are studying SCM101 taught by Hamed Usman at Name University.
 </div></div>
