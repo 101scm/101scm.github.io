@@ -9,7 +9,7 @@ div.ex
 {
 width:100%;
 border:0px;
-background-color: #fafad2;
+background-color: #00fa9a;
 padding:10px;
 }
 </style>
@@ -20,10 +20,6 @@ padding:10px;
 
 <b>Howdy!</b> This website is for those students who are studying supply chain management courses taught by Hamed Usman at Name University, City, Country for Semester Year.
 </div></div>
-
-<br/>
-
----
 
 <h4>New Updates</h4>
 <p>There are no new updates.</p>
