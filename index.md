@@ -9,14 +9,14 @@ div.ex
 {
 width:100%;
 border:0px;
-background-color: #ffe67e;
+background-color: #98fb98;
 padding:10px;
 }
 </style>
 
 <div class="ex">
 
-<div style="text-align: justify;font-size: 12px;">
+<div style="text-align: justify;font-size: 14px;">
 
 <b>Howdy!</b> This website is for those students who are studying supply chain management courses taught by Hamed Usman at Name University, City, Country for Semester Year.
 </div></div>
