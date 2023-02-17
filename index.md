@@ -17,7 +17,7 @@ Howdy! This website is for those students who are studying supply chain manageme
 
 ---
 
-<h4>Resources for Students</h4>
+<h4>Due Tasks</h4>
 <ul>
 <li>STUDENT SURVEY</li>
 <div class="summary"><p><strong>Directions:</strong> <a href="https://www.google.com">Google Form</a> Please submit this form</p></div>
