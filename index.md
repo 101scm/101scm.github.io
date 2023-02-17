@@ -5,7 +5,7 @@ description: Hamed Usman is a Lecturer at Bahria University, Islamabad, Pakistan
 keywords: operations management, supply chain management, logistics
 ---
 
-<h3>WELCOME TO THE HAMED USMAN'S TEACHING PORTAL!</h3>
+<h3>WELCOME TO HAMED USMAN'S TEACHING PORTAL!</h3>
 <p>There are no new updates.</p>
 
 <br/>
