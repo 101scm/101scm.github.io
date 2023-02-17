@@ -10,7 +10,7 @@ Howdy! This website is for those students who are studying supply chain manageme
 
 ---
 
-<h4>〰 New Updates</h4>
+〰 NEW UPDATES
 <p>There are no new updates.</p>
 
 <br/>
