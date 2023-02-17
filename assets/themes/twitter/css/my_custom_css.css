@@ -169,7 +169,7 @@ ul {
   transform-origin: bottom left; /* Add this to default.html --> <p class="hover-underline-animation">add text here</p> */
 }
 
-#note {
+.note {
  width:97.5%;
  border:0px;
  background-color: #00fa9a;
