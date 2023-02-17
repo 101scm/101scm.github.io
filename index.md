@@ -12,7 +12,7 @@ keywords: operations management, supply chain management, logistics
 
 ---
 
-<h4>Research Projects</h4>
+<h4>Resources for Students</h4>
 <ul>
 <li>STUDENT SURVEY</li>
 <div class="summary"><p><strong>Directions:</strong> <a href="https://www.google.com">Google Form</a> Please submit this form</p></div>
