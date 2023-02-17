@@ -138,7 +138,7 @@ ul {
 }
 .footer p {
   color: black;
-  font-size: 10o%;
+  font-size: 100%;
   text-align: center;
   /*line-height: 0px;*/ /* Keep it same with footer height - Disabled to correct the hover-underline-animation */
   margin-top: auto;
@@ -175,5 +175,4 @@ ul {
  background-color: #00fa9a;
  padding:10px;
  text-align: center;
- font-size: 11px;
 }
