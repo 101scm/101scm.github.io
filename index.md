@@ -21,6 +21,8 @@ padding:10px;
 This website is for those who are studying SCM101 taught by Hamed Usman at Name University.
 </div></div>
 
+<br/>
+
 <h4>New Updates</h4>
 <p>There are no new updates.</p>
 
