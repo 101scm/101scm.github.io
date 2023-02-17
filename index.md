@@ -9,7 +9,7 @@ div.ex
 {
 width:100%;
 border:0px;
-background-color: #98fb98;
+background-color: #fafad2;
 padding:10px;
 }
 </style>
