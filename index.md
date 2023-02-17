@@ -1,6 +1,6 @@
 ---
 layout: frontpage
-title: Teaching101 〰 Hamed Usman
+title: Teacher 〰 Hamed Usman
 description: Hamed Usman is a Lecturer at Name University, City, Country. 
 keywords: operations management, supply chain management, logistics
 ---
