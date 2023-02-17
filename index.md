@@ -4,7 +4,7 @@ title: TEACHING101 〰 Hamed Usman
 description: Hamed Usman is a Lecturer at Name University, City, Country. 
 keywords: operations management, supply chain management, logistics
 ---
-<div class="note"><b>Howdy!</b> This website is for those who are studying SCM101 taught by Hamed Usman at Name University.
+<div class="note"><b>Howdy!</b> This website is for those who are studying SCM101 taught by Hamed Usman.
 </div>
 
 <br/>
