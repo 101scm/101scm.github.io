@@ -8,7 +8,7 @@ keywords: operations management, supply chain management, logistics
 div.ex
 {
 width:100%;
-border:1px dashed #bbbbbb;
+/*border:1px dashed #bbbbbb;*/
 background-color: #DBF9FC;
 padding:10px;
 }
