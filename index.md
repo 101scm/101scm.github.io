@@ -53,6 +53,7 @@ function toggle() {
 <p>His major&nbsp;areas of interest are: <a href="http://www.blogger.com/profile-find.g?t=i&amp;q=Reading" target="_blank">reading</a>; <a href="http://www.blogger.com/profile-find.g?t=i&amp;q=Writing" target="_blank">writing</a>; <a href="http://www.blogger.com/profile-find.g?t=i&amp;q=Travelling" target="_blank">travelling</a>; <a href="http://www.blogger.com/profile-find.g?t=i&amp;q=Nature" target="_blank">nature</a>; <a href="http://www.blogger.com/profile-find.g?t=i&amp;q=Music" target="_blank">music</a>; <a href="http://www.blogger.com/profile-find.g?t=i&amp;q=Movies" target="_blank">movies</a>; <a href="http://www.blogger.com/profile-find.g?t=i&amp;q=Documentaries" target="_blank">documentaries</a>; <a href="http://www.blogger.com/profile-find.g?t=i&amp;q=History" target="_blank">history</a>; <a href="http://www.blogger.com/profile-find.g?t=i&amp;q=Religion" target="_blank">religion</a>; <a href="https://www.blogger.com/profile-find.g?t=i&amp;q=Supply+Chain+Management" target="_blank">supply chain management</a>; <a href="https://www.blogger.com/profile-find.g?t=i&amp;q=Logistics" target="_blank">logistics</a>; <a href="https://www.blogger.com/profile-find.g?t=i&amp;q=Procurement" target="_blank">procurement</a>; <a href="http://www.blogger.com/profile-find.g?t=i&amp;q=Swimming" target="_blank">swimming</a>.</p>
 
 <p>He writes new article on this blog every Sunday on weekly basis.</p>
+</div></div></div>
 
 <br/>
 
