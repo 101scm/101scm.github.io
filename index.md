@@ -16,7 +16,7 @@ padding:10px;
 
 <div class="ex">
 
-<div style="text-align: justify;font-size: 14px;">
+<div style="text-align: left;font-size: 15px;">
 
 <b>Howdy!</b> This website is for those students who are studying supply chain management courses taught by Hamed Usman at Name University, City, Country for Semester Year.
 </div></div>
