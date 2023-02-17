@@ -9,7 +9,7 @@ Howdy! This website is for those students who are studying supply chain manageme
 <style>
 div.ex
 {
-width:96.7%;
+width:100%;
 border:1px dashed #bbbbbb;
 padding:10px;
 }
