@@ -18,7 +18,7 @@ padding:10px;
 
 <div style="text-align: left;font-size: 14px;">
 
-This website is for those who are studying SCM taught by Hamed Usman at Name University for Semester Year.
+This website is for those who are studying SCM101 taught by Hamed Usman at Name University for Semester Year.
 </div></div>
 
 <h4>New Updates</h4>
