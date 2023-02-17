@@ -42,9 +42,4 @@ Howdy! This website is for those students who are studying supply chain manageme
 <li>Important Information 1</li>
 <li>Important Information 2</li>
 <li>Important Information 3</li>
-<li>Important Information 4</li>
-<li>Important Information 5</li>
-<li>Important Information 6</li>
-<li>Important Information 7</li>
-<li>Important Information 8</li>
 </ul>
