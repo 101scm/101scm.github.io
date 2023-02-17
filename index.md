@@ -4,7 +4,6 @@ title: Hamed Usman - Teaching Portal
 description: Hamed Usman is a Lecturer at Name University, City, Country. 
 keywords: operations management, supply chain management, logistics
 ---
-
 Howdy! This website is for those students who are taking supply chain management courses taught by Hamed Usman at Name University, City, Country for Semester Year.
 
 <br/>
