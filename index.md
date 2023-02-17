@@ -7,6 +7,10 @@ keywords: operations management, supply chain management, logistics
 
 Howdy! This website is for those students who are taking supply chain management courses taught by Hamed Usman at Name University, City, Country for Semester Year.
 
+<br/>
+
+---
+
 <h4>New Updates</h4>
 <p>There are no new updates.</p>
 
