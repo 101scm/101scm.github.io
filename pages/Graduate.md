@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Research
-description: List of Research Articles and Book Chapters
+title: Graduate
+description: Graduate Program
 ---
 <h5>Article</h5>
 <ul>
