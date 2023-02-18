@@ -3,6 +3,12 @@ layout: page
 title: Graduate
 description: Graduate Program
 ---
+<ul>
+<li>Important Info 1</li>
+<li>Important Info 2</li>
+<li>Important Info 3</li>
+
+<br>
 <h5>Heading 1</h5>
 <ul>
 <li>Title 1</li>
