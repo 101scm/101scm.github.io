@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Undergraduate
-description: Undergraduate Programs
+description: Undergraduate Program
 ---
 <ul>
 <li>Important Info 1</li>
