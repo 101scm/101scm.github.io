@@ -4,7 +4,7 @@ title: Undergraduate
 description: Undergraduate Program
 ---
 <ul>
-<li>Important Info 1</li>
+<li><a href="https://teaching101.github.io/pages/undergraduate/scm101">Link for SCM101</a></li>
 <li>Important Info 2</li>
 <li>Important Info 3</li>
 
