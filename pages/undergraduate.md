@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Undergrad
+title: Undergraduate
 description: Undergraduate Programs
 ---
 <ul>
