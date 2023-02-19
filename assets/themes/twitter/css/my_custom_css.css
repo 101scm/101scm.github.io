@@ -82,6 +82,11 @@ h1, h2, h3, h4, h5 {
     padding-left: 10px;
 }
 
+.note {
+    background-color: #FBF2D0;
+    border-left: 6px solid #D1CAAD;
+    padding-left: 10px;
+}
 .danger {
     background-color: #ffdddd;
     border-left: 6px solid #f44336;
@@ -169,7 +174,7 @@ ul {
   transform-origin: bottom left; /* Add this to default.html --> <p class="hover-underline-animation">add text here</p> */
 }
 
-.note {
+.label {
  width:97.5%;
  border:0px;
  background-color: #00fa9a;
