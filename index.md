@@ -21,7 +21,7 @@ keywords: operations management, supply chain management, logistics
 <li>SCM100</li>
 <!--<p>There are no new updates.</p>-->
 <div class="note"><p><strong>Note</strong></p>
-  <p>The class takes place in Room 00 at 00:00.</p>
+  <p>The name of the course is Introduction to Supply Chain Management. The class takes place in Room 00 on Tuesdays and Thursdays at 00:00.</p>
   <p><a href="https://www.google.com">Here is the link for the course page</a></p></div>
 </ul>
 
