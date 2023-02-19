@@ -11,6 +11,30 @@ keywords: operations management, supply chain management, logistics
 
 <h4>New Updates</h4>
 <p>There are no new updates.</p>
+
+<br/>
+
+---
+
+<h4>Undergraduate Courses (BS and BBA)</h4>
+<ul>
+<li>Student Survey</li>
+<div class="info"><p><strong>Directions:</strong> Please submit this <a href="https://www.google.com">Survey</a> before the end of the second week</p></div>
+</ul>
+
+<br/>
+
+---
+
+<h4>Resources for Students</h4>
+<ul>
+<li>COURSE TITLE</li>
+<div class="summary"><p><strong>Directions:</strong> Description starts from here..</p></div>
+</ul>
+
+<br/>
+
+---
 <!--
 <br/>
 
