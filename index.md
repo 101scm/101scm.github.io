@@ -18,8 +18,8 @@ keywords: operations management, supply chain management, logistics
 
 <h4>Undergraduate Courses (BS and BBA)</h4>
 <ul>
-<li>Student Survey</li>
-<div class="info"><p><strong>Note:</strong> It is mandatory to submit this survey <a href="https://www.google.com">Survey</a> before the end of the second week</p>
+<li>SCM101</li>
+<div class="info"><p><strong>Student Survey</strong> Please note it is mandatory to submit this survey <a href="https://www.google.com">Survey</a> before the end of the second week</p>
 <p><strong>Directions:</strong> Please submit this <a href="https://www.google.com">Survey</a> before the end of the second week</p></div>
 </ul>
 
