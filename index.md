@@ -18,7 +18,7 @@ keywords: operations management, supply chain management, logistics
 
 <h4>Undergraduate Course(s) (BS and BBA)</h4>
 <ul>
-<li>SCM101</li>
+<li>SCM100</li>
 <!--<p>There are no new updates.</p>-->
 <div class="note"><p><strong>Student Survey:</strong> Note that it is mandatory to submit this <a href="https://www.google.com">survey</a> before the end of the second week (MMDDYY).</p></div>
 </ul>
@@ -29,33 +29,9 @@ keywords: operations management, supply chain management, logistics
 
 <h4>Graduate Course(s) (MS and MBA)</h4>
 <ul>
-<li>SCM101</li>
+<li>SCM500</li>
 <!--<p>There are no new updates.</p>-->
 <div class="note"><p><strong>Student Survey:</strong> Note that it is mandatory to submit this <a href="https://www.google.com">survey</a> before the end of the second week (MMDDYY).</p></div>
-</ul>
-
-<br/>
-
----
-
-<h4>Resources for Students</h4>
-<ul>
-<li>COURSE TITLE</li>
-<div class="summary"><p><strong>Directions:</strong> Description starts from here..</p></div>
-</ul>
-
-<br/>
-
----
-<!--
-<br/>
-
----
-
-<h4>Due Tasks</h4>
-<ul>
-<li>STUDENT SURVEY</li>
-<div class="summary"><p><strong>Directions:</strong> Please submit this <a href="https://www.google.com">Google Form</a></p></div>
 </ul>
 
 <br/>
@@ -73,9 +49,9 @@ keywords: operations management, supply chain management, logistics
 ---
 
 <h4>Important Information</h4>
+<!--<p>There are no new updates.</p>-->
 <ul>
 <li>Important Information 1</li>
 <li>Important Information 2</li>
 <li>Important Information 3</li>
 </ul>
--->
