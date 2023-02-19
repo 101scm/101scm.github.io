@@ -18,7 +18,7 @@ keywords: operations management, supply chain management, logistics
 
 <h4>Undergraduate Course(s) (BS and BBA)</h4>
 <ul>
-<li>SCM100</li>
+<li><h5>SCM100</h5></li>
 <!--<p>There are no new updates.</p>-->
 <div class="note"><p><strong>Note</strong></p>
   <p>The name of the course is Introduction to Supply Chain Management. The class takes place in Room 00 on Tuesdays and Thursdays at 00:00.</p>
