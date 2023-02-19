@@ -86,7 +86,8 @@ h1, h2, h3, h4, h5 {
     background-color: #FBF2D0;
     border-left: 6px solid #D1CAAD;
     padding-left: 10px;
-    padding:10px;
+    padding-top:10px;
+    padding-bottom:10px;
 }
 
 .danger {
@@ -176,7 +177,7 @@ ul {
   transform-origin: bottom left; /* Add this to default.html --> <p class="hover-underline-animation">add text here</p> */
 }
 
-.label {
+.headline {
  width:97.5%;
  border:0px;
  background-color: #00fa9a;
