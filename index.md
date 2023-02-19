@@ -16,7 +16,7 @@ keywords: operations management, supply chain management, logistics
 
 ---
 
-<h4>Undergraduate Course(s) (BS and BBA)</h4>
+<h4>Undergraduate Course(s) for BS and BBA</h4>
 <ul>
 <li><h5>SCM100 Introduction to Supply Chain Management</h5></li>
 <!--<p>There are no new updates.</p>-->
@@ -29,11 +29,13 @@ keywords: operations management, supply chain management, logistics
 
 ---
 
-<h4>Graduate Course(s) (MS and MBA)</h4>
+<h4>Graduate Course(s) for MS and MBA</h4>
 <ul>
-<li>SCM500</li>
+<li><h5>SCM500 Strategic SOurcing</h5></li>
 <!--<p>There are no new updates.</p>-->
-<div class="note"><p><strong>Student Survey:</strong> Note that it is mandatory to submit this <a href="https://www.google.com">survey</a> before the end of the second week (MMDDYY).</p></div>
+<div class="note"><p><strong>Note</strong></p>
+  <p>Strategic SOurcing takes place in Room 00 on Tuesdays and Thursdays at 00:00.</p>
+  <p><a href="https://www.google.com">Here is the link for the course page &#x29c9;</a></p></div>
 </ul>
 
 <br/>
