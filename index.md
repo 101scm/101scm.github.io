@@ -20,8 +20,8 @@ keywords: operations management, supply chain management, logistics
 <ul>
 <li>SCM101</li>
 <!--<p>There are no new updates.</p>-->
-<div class="info"><p><strong>Student Survey:</strong> Note that it is mandatory to submit this <a href="https://www.google.com">survey</a> before the end of the second week (MMDDYY).</p>
-</ul></div
+<div class="info"><p><strong>Student Survey:</strong> Note that it is mandatory to submit this <a href="https://www.google.com">survey</a> before the end of the second week (MMDDYY).</p></div>
+</ul>
 
 <br/>
 
