@@ -43,7 +43,7 @@ keywords: operations management, supply chain management, logistics
 ---
 
 <!--<h4>Important Information</h4>
-<!--<p>There are no new updates.</p>-->
+<p>There are no new updates.</p>
 <ul>
 <li>Important Information 1</li>
 <li>Important Information 2</li>
