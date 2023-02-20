@@ -9,8 +9,7 @@ keywords: operations management, supply chain management, logistics
 
 <br/>
 
-<h4>New Updates</h4>
-<p>There are no new updates.</p>
+<!--There is no new information at this time.-->
 
 <br/>
 
