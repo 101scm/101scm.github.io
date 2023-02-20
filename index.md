@@ -38,14 +38,16 @@ keywords: operations management, supply chain management, logistics
   <p><a href="https://teaching101.github.io/pages/scm5000" target="_blank" rel="noopener noreferrer">Here is the link for the course page &#x29c9;</a></p></div>
 </ul>
 
+<!--
 <br/>
 
 ---
 
-<!--<h4>Important Information</h4>
+<h4>Important Information</h4>
 <p>There are no new updates.</p>
 <ul>
 <li>Important Information 1</li>
 <li>Important Information 2</li>
 <li>Important Information 3</li>
-</ul>-->
+</ul>
+-->
