@@ -9,12 +9,12 @@ keywords: operations management, supply chain management, logistics
 
 <br/>
 
-<!--There is no new information at this time.-->
+<!--There is no new information at this time.
 
 <br/>
 
 ---
-
+-->
 <h4>Undergraduate Course(s) for BS and BBA</h4>
 <ul>
 <li><h5>SCM1000 Introduction to Supply Chain Management</h5></li>
