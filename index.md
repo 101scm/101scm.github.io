@@ -23,7 +23,7 @@ keywords: operations management, supply chain management, logistics
   <p>Introduction to Supply Chain Management takes place in Room MS37 on Thursdays at 08:00.</p>
   <p><a href="https://teaching101.github.io/pages/iscm" target="_blank" rel="noopener noreferrer">Here is the link for the course page &#x29c9;</a></p></div>
 
- <li><h5>Import and Export Management</h5></li>
+ <li><h5>Import Export Management</h5></li>
 <!--<p>There are no new updates.</p>-->
 <div class="note"><p><strong>Note</strong></p>
   <p>Introduction to Supply Chain Management takes place in Room 00 on Tuesdays and Thursdays at 00:00.</p>
