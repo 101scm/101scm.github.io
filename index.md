@@ -45,8 +45,9 @@ keywords: operations management, supply chain management, logistics
 
 <li><h5>Fundamentals of Supply Chain Management</h5></li>
 <div class="note"><p><strong>Note</strong></p>
-<p>This course is scheduled to take place on Sundays.</p
-<p><a href="https://teaching101.github.io/pages/fscm" target="_blank" rel="noopener noreferrer">Here is the link for Fundamentals of Supply Chain Management &#x29c9;</a></p></div>
+  <p>This course is scheduled to take place on Sundays.</p>
+<p><a href="https://teaching101.github.io/pages/fscm" target="_blank" rel="noopener noreferrer">Here is the link for Fundamentals of Supply Chain Management &#x29c9;</a>
+</p></div>
 </ul>
 
 <!--
