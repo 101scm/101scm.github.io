@@ -28,7 +28,7 @@ keywords: operations management, supply chain management, logistics
   <li>Introduction to Supply Chain Management - BS (SCM) 2 (A) Morning</li>
     <!--<p><a href="https://teaching101.github.io/pages/iscm" target="_blank" rel="noopener noreferrer">Here is the link for Introduction to Supply Chain
       Management &#x29c9;</a></p>-->
-  <li>Import Export Management - BS (SCM) 6 (A) Morning</h5></li>
+  <li>Import Export Management - BS (SCM) 6 (A) Morning</li>
     <!--<p><a href="https://teaching101.github.io/pages/iem" target="_blank" rel="noopener noreferrer">Here is the link for Import Export Management
       &#x29c9;</a></p>-->
 
