@@ -9,9 +9,6 @@ keywords: operations management, supply chain management, logistics
 
 <br/>
 
-<br/>
-
----
 
 <h4>Graduate Course(s) for MS, SCM  for Spring 2023</h4>
 <ul>
