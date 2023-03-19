@@ -16,7 +16,7 @@ keywords: operations management, supply chain management, logistics
   <li>Contemporary Issues in Supply Chain - MS (SCM) 2 (A) Evening</li>
     <!--<p><a href="https://teaching101.github.io/pages/ciscm" target="_blank" rel="noopener noreferrer">Here is the link for Contemporary Issues in Supply
         Chain Management &#x29c9;</a></p>-->
-  <li>Fundamentals of Supply Chain Management - MS (SCM) 1 (A) Evening<li>
+  <li>Fundamentals of Supply Chain Management - MS (SCM) 1 (A) Evening</li>
     <!--<p><a href="https://teaching101.github.io/pages/fscm" target="_blank" rel="noopener noreferrer">Here is the link for Fundamentals of Supply Chain
         Management &#x29c9;</a>-->
 
