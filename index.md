@@ -18,7 +18,6 @@ keywords: operations management, supply chain management, logistics
   <li>Fundamentals of Supply Chain Management - MS (SCM) 1 (A) Evening</li>
     <!--<p><a href="https://teaching101.github.io/pages/fscm" target="_blank" rel="noopener noreferrer">Here is the link for Fundamentals of Supply Chain
       Management &#x29c9;</a></p>-->
-</ul)
 
 <br/>
 
@@ -32,7 +31,6 @@ keywords: operations management, supply chain management, logistics
   <li>Import Export Management - BS (SCM) 6 (A) Morning</h5></li>
     <!--<p><a href="https://teaching101.github.io/pages/iem" target="_blank" rel="noopener noreferrer">Here is the link for Import Export Management
       &#x29c9;</a></p>-->
-</ul)
 
 <!--
 <br/>
