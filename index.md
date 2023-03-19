@@ -10,21 +10,17 @@ keywords: operations management, supply chain management, logistics
 <br/>
 
 
-<h4>Graduate Course(s) for MS, SCM  for Spring 2023</h4>
+<h5>Graduate Course(s) for MS, SCM  for Spring 2023</h5>
 <ul>
-<li><h5>Contemporary Issues in Supply Chain - MS (SCM) 2 (A) Evening</h5></li>
-<div class="note"><p><strong>Note</strong></p>
-<p>This course is scheduled to take place on Saturdays.</p>
-<p><a href="https://teaching101.github.io/pages/ciscm" target="_blank" rel="noopener noreferrer">Here is the link for Contemporary Issues in Supply Chain Management &#x29c9;</a></p></div>
 
-<br/>
-
-<li><h5>Fundamentals of Supply Chain Management - MS (SCM) 1 (A) Evening</h5></li>
-<div class="note"><p><strong>Note</strong></p>
-  <p>This course is scheduled to take place on Sundays.</p>
-<p><a href="https://teaching101.github.io/pages/fscm" target="_blank" rel="noopener noreferrer">Here is the link for Fundamentals of Supply Chain Management &#x29c9;</a>
-</p></div>
-</ul>
+<div class="note">
+  <li>Contemporary Issues in Supply Chain - MS (SCM) 2 (A) Evening</li>
+    <!--<p><a href="https://teaching101.github.io/pages/ciscm" target="_blank" rel="noopener noreferrer">Here is the link for Contemporary Issues in Supply
+        Chain Management &#x29c9;</a></p>-->
+  <li>Fundamentals of Supply Chain Management - MS (SCM) 1 (A) Evening</li>
+      <p><a href="https://teaching101.github.io/pages/fscm" target="_blank" rel="noopener noreferrer">Here is the link for Fundamentals of Supply Chain
+        Management &#x29c9;</a>-->
+</div>
 
 <br/>
 
