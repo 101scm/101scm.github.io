@@ -19,8 +19,6 @@ keywords: operations management, supply chain management, logistics
     <!--<p><a href="https://teaching101.github.io/pages/fscm" target="_blank" rel="noopener noreferrer">Here is the link for Fundamentals of Supply Chain
       Management &#x29c9;</a></p>-->
 </ul>
-
-<br/>
   
 <h5>Undergraduate Course(s) for BS (SCM)</h5>
 <ul>
