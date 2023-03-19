@@ -4,7 +4,7 @@ title: TEACHING101 〰 Hamed Usman
 description: Hamed Usman is a Lecturer at Name University, City, Country. 
 keywords: operations management, supply chain management, logistics
 ---
-<div class="headline"><strong>Howdy!</strong> <a href="https://hamedusman.github.io" target="_blank" rel="noopener noreferrer">Hamed Usman &#x29c9;</a> is a Senior Lecturer at Bahria Business School, Bahria University, Islamabad.
+<div class="headline"><strong>Howdy!</strong> <a href="https://hamedusman.github.io" target="_blank" rel="noopener noreferrer">Hamed Usman &#x29c9;</a> is a Senior Lecturer at Bahria Business School, Bahria University, Islamabad, PK.
 </div>
 
 <br/>
