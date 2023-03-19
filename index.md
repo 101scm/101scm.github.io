@@ -10,6 +10,10 @@ keywords: operations management, supply chain management, logistics
 <br/>
 
 <h4> Spring 2023 Semester</h4>
+<h5>Master Thesis Supervision</h5>
+<ul>
+  <li>Three students from last semester of MS (SCM)</li>
+</ul>
 <h5>Graduate Course(s) for MS (SCM)</h5>
 <ul>
   <li>Contemporary Issues in Supply Chain - MS (SCM) 2 (A) Evening</li>
