@@ -9,12 +9,12 @@ keywords: operations management, supply chain management, logistics
 
 <br/>
 
-Hamed Usman
-Senior Lecturer
-Bahria Business School
-Bahria University, Islamabad
-Shangrila Road, Sector E-8, Islamabad, Pakistan
-email: hamed.buic@bahria.edu.pk
+<p>Hamed Usman</p>
+<p>Senior Lecturer</p>
+<p>Bahria Business School</p>
+<p>Bahria University, Islamabad</p>
+<p>Shangrila Road, Sector E-8, Islamabad, Pakistan</p>
+<p>email: hamed.buic@bahria.edu.pk</p>
 
 <br/>
 
