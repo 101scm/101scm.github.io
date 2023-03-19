@@ -12,7 +12,7 @@ keywords: operations management, supply chain management, logistics
 <h4>Spring 2023</h4>
 <h5>Research - Master Thesis Supervision</h5>
 <ul>
-  <li>Supervisor for three students of last semester of MS (SCM)</li>
+  <li>Supervisor for three graduate students from supply chain management (SCM) major</li>
 </ul>
 <h5>Graduate Course(s) for MS (SCM)</h5>
 <ul>
