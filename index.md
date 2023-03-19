@@ -10,14 +10,14 @@ keywords: operations management, supply chain management, logistics
 <br/>
 
 
-<h5>Graduate Course(s) for MS, SCM  for Spring 2023</h5>
+<h5>Graduate Course(s) for MS (SCM)  for Spring 2023</h5>
 <ul>
 
 <div class="note">
-  <li>Contemporary Issues in Supply Chain - MS (SCM) 2 (A) Evening</li>
+  <p>Contemporary Issues in Supply Chain - MS (SCM) 2 (A) Evening</p>
     <!--<p><a href="https://teaching101.github.io/pages/ciscm" target="_blank" rel="noopener noreferrer">Here is the link for Contemporary Issues in Supply
         Chain Management &#x29c9;</a></p>-->
-  <li>Fundamentals of Supply Chain Management - MS (SCM) 1 (A) Evening</li>
+  <p>Fundamentals of Supply Chain Management - MS (SCM) 1 (A) Evening</p>
     <!--<p><a href="https://teaching101.github.io/pages/fscm" target="_blank" rel="noopener noreferrer">Here is the link for Fundamentals of Supply Chain
         Management &#x29c9;</a>-->
 </div>
@@ -26,7 +26,7 @@ keywords: operations management, supply chain management, logistics
 
 ---
 
-<h4>Undergraduate Course(s) for BS, SCM for Spring 2023</h4>
+<h5>Undergraduate Course(s) for BS (SCM) for Spring 2023</h5>
 <ul>
 <li><h5>Introduction to Supply Chain Management - BS (SCM) 2 (A) Morning</h5></li>
 <div class="note"><p><strong>Note</strong></p>
