@@ -9,4 +9,17 @@ keywords: operations management, supply chain management, logistics
 
 <br/>
 
+<h4>Contact</h4>
+Hamed Usman, MS <br/>
+Senior Lecturer, Supply Chain Management
+Email: hamed.buic@bahria.edu.pk <br/>
+Phone: +92-51-9260002 (Ext. 1424) <br/>
+Office: Room 3, Basement of XC Building <br/>
+Address: Bahria University, E-8 Campus, Islamabad <br/>
+
+<br/>
+
+---
+
+
 There are no updates available now.
