@@ -1,7 +1,7 @@
 ---
 layout: frontpage
 title: 101SCM 〰 Hamed Usman
-description: Hamed Usman is a Lecturer at Name University, City, Country. 
+description: Hamed Usman is a Senior Lecturer at Bahria University, Islamabad, Pakistan. 
 keywords: operations management, supply chain management, logistics
 ---
 <div class="headline"><strong>Howdy!</strong> This website is for those students who are registered in the courses taught by <a href="https://hamedusman.github.io" target="_blank" rel="noopener noreferrer">Hamed Usman &#x29c9;</a> at Bahria Business School, Bahria University, Islamabad, PK. He can be reached at <a href="mailto:hamed.buic@bahria.edu.pk">hamed.buic@bahria.edu.pk</a>.
