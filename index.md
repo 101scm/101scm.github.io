@@ -25,7 +25,7 @@ keywords: operations management, supply chain management, logistics
 <li>Import and Export Management (SCM 320; undergraduate level)</li>
     <!--<p><a href="https://teaching101.github.io/pages/iem" target="_blank" rel="noopener noreferrer">Here is the link for Import Export Management
       &#x29c9;</a></p>-->
-<li>Introduction to Supply Chain Management (SCM 101; Undergraduate level)</li>
+<li>Introduction to Supply Chain Management (SCM 101; undergraduate level)</li>
     <!--<p><a href="https://teaching101.github.io/pages/iscm" target="_blank" rel="noopener noreferrer">Here is the link for Introduction to Supply Chain
       Management &#x29c9;</a></p>-->
 </ul>
