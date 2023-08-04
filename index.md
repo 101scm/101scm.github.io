@@ -14,8 +14,7 @@ Hamed Usman, MS <br/>
 Sr. Lecturer, Supply Chain Management <br/>
 Email: hamed.buic@bahria.edu.pk <br/>
 Phone: +92-51-9260002 (Ext. 1424) <br/>
-Office: Room 3, Basement of XC Building <br/>
-Address: Bahria University, E-8 Campus, Islamabad <br/>
+
 
 <br/>
 
