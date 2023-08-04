@@ -14,24 +14,20 @@ keywords: operations management, supply chain management, logistics
 <ul>
   <li>Hira Waris (MS in SCM; expected to graduate in Spring 2023)</li>
 </ul>
-<h5>Graduate Course(s) for MS (SCM)</h5>
+<h5>Academic Teaching</h5>
 <ul>
-  <li>Contemporary Issues in Supply Chain - MS (SCM) 2 (A) Evening</li>
+<li>Contemporary Issues in Supply Chain (SCM 707; graduate level)</li>
     <!--<p><a href="https://teaching101.github.io/pages/ciscm" target="_blank" rel="noopener noreferrer">Here is the link for Contemporary Issues in Supply
         Chain Management &#x29c9;</a></p>-->
-  <li>Fundamentals of Supply Chain Management - MS (SCM) 1 (A) Evening</li>
+<li>Fundamentals of Supply Chain Management (SCM 701; graduate level)</li>
     <!--<p><a href="https://teaching101.github.io/pages/fscm" target="_blank" rel="noopener noreferrer">Here is the link for Fundamentals of Supply Chain
       Management &#x29c9;</a></p>-->
-</ul>
-  
-<h5>Undergraduate Course(s) for BS (SCM)</h5>
-<ul>
-  <li>Introduction to Supply Chain Management - BS (SCM) 2 (A) Morning</li>
-    <!--<p><a href="https://teaching101.github.io/pages/iscm" target="_blank" rel="noopener noreferrer">Here is the link for Introduction to Supply Chain
-      Management &#x29c9;</a></p>-->
-  <li>Import Export Management - BS (SCM) 6 (A) Morning</li>
+<li>Import and Export Management (SCM 320; undergraduate level)</li>
     <!--<p><a href="https://teaching101.github.io/pages/iem" target="_blank" rel="noopener noreferrer">Here is the link for Import Export Management
       &#x29c9;</a></p>-->
+<li>Introduction to Supply Chain Management (SCM 101; Undergraduate level)</li>
+    <!--<p><a href="https://teaching101.github.io/pages/iscm" target="_blank" rel="noopener noreferrer">Here is the link for Introduction to Supply Chain
+      Management &#x29c9;</a></p>-->
 </ul>
 
 <!--
