@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Teaching
+title: TEACHING
 description: list of academic courses taught by Hamed Usman
 ---
 <h5>Academic Courses</h5>
