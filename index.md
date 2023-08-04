@@ -10,9 +10,9 @@ keywords: operations management, supply chain management, logistics
 <br/>
 
 <h4>Spring 2023</h4>
-<h5>Research - Master Thesis Supervision</h5>
+<h5>Research Advising - Master Thesis Supervision</h5>
 <ul>
-  <li>Supervisor for three graduate students from supply chain management (SCM) major</li>
+  <li>Hira Waris (MS in SCM; expected to graduate in Spring 2023)</li>
 </ul>
 <h5>Graduate Course(s) for MS (SCM)</h5>
 <ul>
