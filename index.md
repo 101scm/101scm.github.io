@@ -1,7 +1,7 @@
 ---
 layout: frontpage
 title: 1 0 1 S C M
-description: Hamed Usman is a Senior Lecturer at Bahria University, Islamabad, Pakistan. 
+description: operations management, supply chain management, logistics
 keywords: operations management, supply chain management, logistics
 ---
 
