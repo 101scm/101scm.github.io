@@ -8,7 +8,7 @@ Email: hamed.buic@bahria.edu.pk<br/>
 Phone: +92-51-9260002 (Ext. 1424)<br/>
 Bahria University, E-8 Islamabad, PK<br/>
 <br/>
-<p><i>Last updated on Monday, February 12, 2024</i></p>
+<p><i>Last updated on Monday, March 04, 2024</i></p>
 
 
 <br/>
@@ -104,8 +104,8 @@ Bahria University, E-8 Islamabad, PK<br/>
     <ul style="list-style-type:none;">
      <li>Hira Waris <i>(MS in SCM, Bahria University, Islamabad, Pakistan; Graduated in Spring 2023)</i></li>
       <!--<ul style="list-style-type:none;"><li>- Thesis Title: <i>The relationship between inventory leanness, dynamism, and sustainability of firms: In context of US-based clean 200 companies</i></li></ul>-->
-     <li>Kanwal Iftikhar <i>(MS in SCM, Bahria University, Islamabad, Pakistan; Expected to graduate in Fall 2023)</i></li>
-     <li>Naida Arif <i>(MS in SCM, Bahria University, Islamabad, Pakistan; Expected to graduate in Fall 2023)</i></li>
+     <li>Kanwal Iftikhar <i>(MS in SCM, Bahria University, Islamabad, Pakistan; Graduated in Fall 2023)</i></li>
+     <li>Naida Arif <i>(MS in SCM, Bahria University, Islamabad, Pakistan; Graduated in Fall 2023)</i></li>
     </ul>
   </ul>
 
